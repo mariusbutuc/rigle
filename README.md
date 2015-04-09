@@ -1,8 +1,9 @@
 # Rigle
-
-> Knowing the deepest levels of any piece of software lets you master it.  It’s a special kind of competence you can’t fake.  You have to know it so well you could build it.  What if you did build it?  Wouldn’t that be worth it?
+[![Gem Version](https://badge.fury.io/rb/rigle.svg)](http://badge.fury.io/rb/rigle) [![Build Status](https://travis-ci.org/mariusbutuc/rigle.svg?branch=master)](https://travis-ci.org/mariusbutuc/rigle)
 
 This repo with follow along building a Rails-like framework from an empty directory, using the same Ruby features and structures that make Rails so interesting.
+
+> Knowing the deepest levels of any piece of software lets you master it. It’s a special kind of competence you can’t fake. You have to know it so well you could build it. What if you did build it? Wouldn’t that be worth it?
 
 It's just me going through the moves of with @noahgibbs' [Rebuilding Rails](https://rebuilding-rails.com/).
 

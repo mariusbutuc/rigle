@@ -1,4 +1,5 @@
-require "rigle/version"
+require 'rigle/version'
+require 'rigle/array'
 
 module Rigle
   class Application
