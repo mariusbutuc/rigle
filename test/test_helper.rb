@@ -6,6 +6,7 @@ require 'pry'
 # under development version of our gem.
 $LOAD_PATH.unshift File.expand_path('../../lib', __FILE__)
 require 'rigle'
+require 'rigle/array'
 
 class Minitest::Test
   include Rack::Test::Methods
